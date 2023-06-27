@@ -1,38 +1,65 @@
 .App {
+  background-color: #eef5ff;
+  padding: 20px;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.app-title {
+  color: #185a9d;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.select-container {
+  margin-bottom: 20px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.select-label {
+  font-weight: bold;
+  margin-right: 10px;
+  color: #185a9d;
+}
+
+.select-box {
+  padding: 5px 10px;
+  border: 1px solid #185a9d;
+  border-radius: 4px;
+  background-color: #f2f7ff;
+  color: #185a9d;
+  font-size: 16px;
+}
+
+.Weather {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #c9e4ff;
+  border-radius: 4px;
+  color: #185a9d;
+}
+
+.Weather-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.Forecast {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.Forecast-day {
+  font-weight: bold;
+}
+
+.Forecast-details {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.Forecast-temperature {
+  font-weight: bold;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Forecast-description {
+  color: #666666;
 }

@@ -1,0 +1,145 @@
+{
+  "locations": [
+    {
+      "country": "United States",
+      "cities": [
+        {
+          "name": "New York",
+          "forecast": [
+            {
+              "day": "Monday",
+              "temperature": "25°C",
+              "description": "Sunny"
+            },
+            {
+              "day": "Tuesday",
+              "temperature": "20°C",
+              "description": "Cloudy"
+            }
+          ]
+        },
+        {
+          "name": "Los Angeles",
+          "forecast": []
+        }
+      ]
+    },
+    {
+      "country": "United Kingdom",
+      "cities": [
+        {
+          "name": "London",
+          "forecast": []
+        },
+        {
+          "name": "Manchester",
+          "forecast": []
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "cities": [
+        {
+          "name": "Toronto",
+          "forecast": []
+        },
+        {
+          "name": "Vancouver",
+          "forecast": []
+        }
+      ]
+    },
+    {
+      "country": "Australia",
+      "cities": [
+        {
+          "name": "Sydney",
+          "forecast": []
+        },
+        {
+          "name": "Melbourne",
+          "forecast": []
+        }
+      ]
+    },
+    {
+      "country": "Germany",
+      "cities": [
+        {
+          "name": "Berlin",
+          "forecast": []
+        },
+        {
+          "name": "Munich",
+          "forecast": []
+        }
+      ]
+    },
+    {
+      "country": "France",
+      "cities": [
+        {
+          "name": "Paris",
+          "forecast": []
+        },
+        {
+          "name": "Marseille",
+          "forecast": []
+        }
+      ]
+    },
+    {
+      "country": "Spain",
+      "cities": [
+        {
+          "name": "Madrid",
+          "forecast": []
+        },
+        {
+          "name": "Barcelona",
+          "forecast": []
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "cities": [
+        {
+          "name": "Tokyo",
+          "forecast": []
+        },
+        {
+          "name": "Osaka",
+          "forecast": []
+        }
+      ]
+    },
+    {
+      "country": "Brazil",
+      "cities": [
+        {
+          "name": "Sao Paulo",
+          "forecast": []
+        },
+        {
+          "name": "Rio de Janeiro",
+          "forecast": []
+        }
+      ]
+    },
+    {
+      "country": "India",
+      "cities": [
+        {
+          "name": "Mumbai",
+          "forecast": []
+        },
+        {
+          "name": "Delhi",
+          "forecast": []
+        }
+      ]
+    }
+  ]
+}
