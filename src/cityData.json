@@ -1,0 +1,434 @@
+{
+  "countries": [
+    {
+      "name": "United States",
+      "cities": [
+        {
+          "name": "New York",
+          "weather": {
+            "temperature": "25°C",
+            "humidity": "70%",
+            "wind": "15 km/h",
+            "precipitation": "10%",
+            "conditions": "Partly Cloudy"
+          },
+          "nature": {
+            "animals": "Squirrels, Pigeons",
+            "jungleArea": "",
+            "waterfalls": ""
+          },
+          "waters": {
+            "river": "Hudson River",
+            "sea": ""
+          }
+        },
+        {
+          "name": "Los Angeles",
+          "weather": {
+            "temperature": "30°C",
+            "humidity": "50%",
+            "wind": "10 km/h",
+            "precipitation": "0%",
+            "conditions": "Sunny"
+          },
+          "nature": {
+            "animals": "Seagulls, Dolphins",
+            "jungleArea": "",
+            "waterfalls": ""
+          },
+          "waters": {
+            "river": "",
+            "sea": "Pacific Ocean"
+          }
+        }
+      ]
+    },
+    {
+      "name": "United Kingdom",
+      "cities": [
+        {
+          "name": "London",
+          "weather": {
+            "temperature": "20°C",
+            "humidity": "75%",
+            "wind": "12 km/h",
+            "precipitation": "15%",
+            "conditions": "Rainy"
+          },
+          "nature": {
+            "animals": "Pigeons, Foxes",
+            "jungleArea": "",
+            "waterfalls": ""
+          },
+          "waters": {
+            "river": "River Thames",
+            "sea": ""
+          }
+        },
+        {
+          "name": "Edinburgh",
+          "weather": {
+            "temperature": "18°C",
+            "humidity": "65%",
+            "wind": "8 km/h",
+            "precipitation": "20%",
+            "conditions": "Cloudy"
+          },
+          "nature": {
+            "animals": "Seagulls, Sheep",
+            "jungleArea": "",
+            "waterfalls": ""
+          },
+          "waters": {
+            "river": "",
+            "sea": "North Sea"
+          }
+        }
+      ]
+    },
+    {
+      "name": "France",
+      "cities": [
+        {
+          "name": "Paris",
+          "weather": {
+            "temperature": "22°C",
+            "humidity": "60%",
+            "wind": "10 km/h",
+            "precipitation": "5%",
+            "conditions": "Sunny"
+          },
+          "nature": {
+            "animals": "Pigeons, Swans",
+            "jungleArea": "",
+            "waterfalls": ""
+          },
+          "waters": {
+            "river": "River Seine",
+            "sea": ""
+          }
+        },
+        {
+          "name": "Nice",
+          "weather": {
+            "temperature": "28°C",
+            "humidity": "50%",
+            "wind": "10 km/h",
+            "precipitation": "0%",
+            "conditions": "Sunny"
+          },
+          "nature": {
+            "animals": "Seagulls, Fish",
+            "jungleArea": "",
+            "waterfalls": ""
+          },
+          "waters": {
+            "river": "",
+            "sea": "Mediterranean Sea"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Canada",
+      "cities": [
+        {
+          "name": "Toronto",
+          "weather": {
+            "temperature": "-5°C",
+            "humidity": "40%",
+            "wind": "20 km/h",
+            "precipitation": "20%",
+            "conditions": "Snowy"
+          },
+          "nature": {
+            "animals": "Squirrels, Raccoons",
+            "jungleArea": "",
+            "waterfalls": ""
+          },
+          "waters": {
+            "river": "",
+            "sea": ""
+          }
+        },
+        {
+          "name": "Vancouver",
+          "weather": {
+            "temperature": "15°C",
+            "humidity": "80%",
+            "wind": "8 km/h",
+            "precipitation": "30%",
+            "conditions": "Rainy"
+          },
+          "nature": {
+            "animals": "Seagulls, Bears",
+            "jungleArea": "",
+            "waterfalls": ""
+          },
+          "waters": {
+            "river": "",
+            "sea": "Pacific Ocean"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "cities": [
+        {
+          "name": "Sydney",
+          "weather": {
+            "temperature": "28°C",
+            "humidity": "65%",
+            "wind": "10 km/h",
+            "precipitation": "5%",
+            "conditions": "Sunny"
+          },
+          "nature": {
+            "animals": "Kangaroos, Koalas",
+            "jungleArea": "",
+            "waterfalls": ""
+          },
+          "waters": {
+            "river": "",
+            "sea": "Pacific Ocean"
+          }
+        },
+        {
+          "name": "Melbourne",
+          "weather": {
+            "temperature": "20°C",
+            "humidity": "55%",
+            "wind": "12 km/h",
+            "precipitation": "10%",
+            "conditions": "Partly Cloudy"
+          },
+          "nature": {
+            "animals": "Penguins, Seals",
+            "jungleArea": "",
+            "waterfalls": ""
+          },
+          "waters": {
+            "river": "",
+            "sea": "Bass Strait"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "cities": [
+        {
+          "name": "Berlin",
+          "weather": {
+            "temperature": "24°C",
+            "humidity": "50%",
+            "wind": "10 km/h",
+            "precipitation": "5%",
+            "conditions": "Sunny"
+          },
+          "nature": {
+            "animals": "Pigeons, Foxes",
+            "jungleArea": "",
+            "waterfalls": ""
+          },
+          "waters": {
+            "river": "River Spree",
+            "sea": ""
+          }
+        },
+        {
+          "name": "Munich",
+          "weather": {
+            "temperature": "22°C",
+            "humidity": "60%",
+            "wind": "8 km/h",
+            "precipitation": "10%",
+            "conditions": "Partly Cloudy"
+          },
+          "nature": {
+            "animals": "Squirrels, Deer",
+            "jungleArea": "",
+            "waterfalls": ""
+          },
+          "waters": {
+            "river": "",
+            "sea": ""
+          }
+        }
+      ]
+    },
+    {
+      "name": "Japan",
+      "cities": [
+        {
+          "name": "Tokyo",
+          "weather": {
+            "temperature": "30°C",
+            "humidity": "70%",
+            "wind": "10 km/h",
+            "precipitation": "5%",
+            "conditions": "Sunny"
+          },
+          "nature": {
+            "animals": "Crows, Koi Fish",
+            "jungleArea": "",
+            "waterfalls": ""
+          },
+          "waters": {
+            "river": "",
+            "sea": "Pacific Ocean"
+          }
+        },
+        {
+          "name": "Kyoto",
+          "weather": {
+            "temperature": "26°C",
+            "humidity": "60%",
+            "wind": "8 km/h",
+            "precipitation": "10%",
+            "conditions": "Partly Cloudy"
+          },
+          "nature": {
+            "animals": "Deer, Monkeys",
+            "jungleArea": "",
+            "waterfalls": ""
+          },
+          "waters": {
+            "river": "",
+            "sea": ""
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brazil",
+      "cities": [
+        {
+          "name": "Rio de Janeiro",
+          "weather": {
+            "temperature": "32°C",
+            "humidity": "75%",
+            "wind": "15 km/h",
+            "precipitation": "10%",
+            "conditions": "Sunny"
+          },
+          "nature": {
+            "animals": "Monkeys, Toucans",
+            "jungleArea": "",
+            "waterfalls": ""
+          },
+          "waters": {
+            "river": "",
+            "sea": "Atlantic Ocean"
+          }
+        },
+        {
+          "name": "Sao Paulo",
+          "weather": {
+            "temperature": "28°C",
+            "humidity": "70%",
+            "wind": "10 km/h",
+            "precipitation": "15%",
+            "conditions": "Cloudy"
+          },
+          "nature": {
+            "animals": "Squirrels, Capybaras",
+            "jungleArea": "",
+            "waterfalls": ""
+          },
+          "waters": {
+            "river": "",
+            "sea": ""
+          }
+        }
+      ]
+    },
+    {
+      "name": "China",
+      "cities": [
+        {
+          "name": "Beijing",
+          "weather": {
+            "temperature": "28°C",
+            "humidity": "65%",
+            "wind": "10 km/h",
+            "precipitation": "5%",
+            "conditions": "Sunny"
+          },
+          "nature": {
+            "animals": "Pigeons, Koi Fish",
+            "jungleArea": "",
+            "waterfalls": ""
+          },
+          "waters": {
+            "river": "",
+            "sea": ""
+          }
+        },
+        {
+          "name": "Shanghai",
+          "weather": {
+            "temperature": "30°C",
+            "humidity": "60%",
+            "wind": "8 km/h",
+            "precipitation": "10%",
+            "conditions": "Partly Cloudy"
+          },
+          "nature": {
+            "animals": "Seagulls, Carp",
+            "jungleArea": "",
+            "waterfalls": ""
+          },
+          "waters": {
+            "river": "Yangtze River",
+            "sea": ""
+          }
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "cities": [
+        {
+          "name": "Delhi",
+          "weather": {
+            "temperature": "35°C",
+            "humidity": "70%",
+            "wind": "10 km/h",
+            "precipitation": "5%",
+            "conditions": "Sunny"
+          },
+          "nature": {
+            "animals": "Monkeys, Peacocks",
+            "jungleArea": "",
+            "waterfalls": ""
+          },
+          "waters": {
+            "river": "",
+            "sea": ""
+          }
+        },
+        {
+          "name": "Mumbai",
+          "weather": {
+            "temperature": "30°C",
+            "humidity": "65%",
+            "wind": "8 km/h",
+            "precipitation": "10%",
+            "conditions": "Partly Cloudy"
+          },
+          "nature": {
+            "animals": "Crows, Flamingos",
+            "jungleArea": "",
+            "waterfalls": ""
+          },
+          "waters": {
+            "river": "",
+            "sea": "Arabian Sea"
+          }
+        }
+      ]
+    }
+  ]
+}
